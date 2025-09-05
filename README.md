@@ -6,20 +6,20 @@ Este repositorio contiene un proyecto de simulación de **flujo en cavidades con
 
 - **docs/**
   - `reporte.pdf`: informe completo del proyecto.
-  - `images/`: figuras clave extraídas del reporte para visualización rápida.
+  - `imagenes/`: figuras clave extraídas del reporte para visualización rápida.
 - **src/**: códigos Fortran (4 casos distintos de geometría).
 - **data/raw/**: resultados generados por cada uno de los códigos.
 
 ## 🖼 Ejemplos de resultados
 
 ### Campo de velocidades
-![Campo de velocidades](docs/images/img_1.png)
+![Campo de velocidades](docs/imagenes/img_1.png)
 
 ### Diferentes configuraciones
-![Comparación de configuraciones](docs/images/img_2.png)
+![Comparación de configuraciones](docs/imagenes/img_2.png)
 
 ## 📜 Notas
 
 - Cada código Fortran (`src/case_X.f90`) corresponde a una configuración de obstáculos distinta.
 - Los resultados listados en `data/raw/` se corresponden con las salidas directas de cada ejecución.
-- Las imágenes (`docs/images/`) se incluyen para visualización rápida en GitHub, sin necesidad de abrir el PDF.
+- Las imágenes (`docs/imagenes/`) se incluyen para visualización rápida en GitHub, sin necesidad de abrir el PDF.
