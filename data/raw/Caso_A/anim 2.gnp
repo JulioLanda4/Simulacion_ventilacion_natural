@@ -1,0 +1,1 @@
+ set xrange[0:20]; set yrange[0:10]; set view map; set size ratio -1

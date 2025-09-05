@@ -1,0 +1,401 @@
+ set xrange[0:20]; set yrange[0:10]; set view map; set size ratio -1
+ p 'vel10.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel20.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel30.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel40.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel50.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel60.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel70.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel80.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel90.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel100.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel110.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel120.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel130.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel140.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel150.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel160.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel170.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel180.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel190.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel200.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel210.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel220.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel230.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel240.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel250.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel260.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel270.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel280.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel290.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel300.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel310.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel320.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel330.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel340.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel350.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel360.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel370.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel380.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel390.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel400.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel410.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel420.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel430.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel440.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel450.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel460.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel470.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel480.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel490.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel500.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel510.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel520.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel530.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel540.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel550.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel560.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel570.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel580.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel590.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel600.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel610.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel620.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel630.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel640.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel650.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel660.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel670.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel680.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel690.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel700.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel710.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel720.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel730.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel740.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel750.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel760.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel770.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel780.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel790.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel800.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel810.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel820.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel830.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel840.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel850.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel860.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel870.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel880.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel890.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel900.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel910.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel920.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel930.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel940.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel950.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel960.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel970.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel980.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel990.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1000.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1010.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1020.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1030.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1040.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1050.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1060.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1070.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1080.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1090.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1100.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1110.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1120.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1130.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1140.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1150.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1160.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1170.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1180.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1190.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1200.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1210.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1220.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1230.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1240.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1250.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1260.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1270.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1280.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1290.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1300.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1310.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1320.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1330.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1340.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1350.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1360.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1370.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1380.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1390.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1400.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1410.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1420.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1430.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1440.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1450.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1460.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1470.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1480.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1490.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1500.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1510.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1520.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1530.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1540.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1550.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1560.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1570.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1580.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1590.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1600.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1610.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1620.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1630.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1640.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1650.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1660.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1670.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1680.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1690.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1700.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1710.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1720.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1730.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1740.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1750.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1760.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1770.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1780.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1790.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1800.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1810.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1820.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1830.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1840.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1850.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1860.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1870.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1880.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1890.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1900.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1910.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1920.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1930.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1940.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1950.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1960.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1970.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1980.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel1990.txt' u 1:2:($4 - $3) w image
+ pause 0.05
+ p 'vel2000.txt' u 1:2:($4 - $3) w image
+ pause 0.05
